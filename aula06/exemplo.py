@@ -41,7 +41,7 @@ for n in range(5):
     numero = float(input('Informe o valor da venda: '))
     total += numero
 
-print(f'A sola de tudo é {total:.2f}')
+print(f'A soma de tudo é {total:.2f}')
 
 
                                                                                                                                                                                                                                                                                                                                  
