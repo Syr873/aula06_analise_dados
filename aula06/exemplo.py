@@ -34,15 +34,14 @@
 
 
 # Variável acumuladora
-# total = 0
+total = 0
 
-# for n in range(5):
-#     print(f'Venda {n + 1}')
-#     numero = float(input('Informe o valor da venda: '))
-#     total += numero
+for n in range(5):
+    print(f'Venda {n + 1}')
+    numero = float(input('Informe o valor da venda: '))
+    total += numero
 
-# print(f'O total das vendas é {total:.2f}')
+print(f'A sola de tudo é {total:.2f}')
 
 
-#
                                                                                                                                                                                                                                                                                                                                  
